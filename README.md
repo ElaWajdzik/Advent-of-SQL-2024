@@ -19,6 +19,8 @@ day | summary | important function
 [day_4](day_04.sql) | practice working with arrays: calculating set complements and intersections; <br> second version using functions (this topic is new to me) | `ARRAY()`, `UNNEST()`, <br> `FUNCTION`
 [day_5](day_05.sql) | practice with daily analysis and compare results day by day | `LAG()`, `LEAD()`
 [day_6](day_06.sql) | practice working with simple aggregation functions | `AVG() OVER()`, `CTE`
+[day_7](day_07.sql) | practice working with window_function | `ROW_NUMBER()` - unique sequential number, `RANK()` 
+
 
 <br/>
 
@@ -29,3 +31,5 @@ day | summary | important function
 **Thank you for reading.** If you have any comments on my work, please let me know. My email address is ela.wajdzik@gmail.com.
 
 ***
+
+
