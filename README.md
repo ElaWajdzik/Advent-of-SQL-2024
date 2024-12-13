@@ -23,6 +23,7 @@ day | summary | important function
 [day_8](day_08.sql) | used the RECURSIVE keyword in a CTE and applied it in practice for the first time | `CTE RECURSIVE`
 [day_9](day_09.sql) | practice working with simple aggregation functions | `AVG()`, `CTE`,  `ROW_NUMBER() OVER()`
 [day_10](day_10.sql) | practice using a pivot-like approach with conditional aggregation to transform rows into column | `CTE`, pivot
+[day_11](day_11.sql) | practice working with window functions and calculating a moving average | Window functions
 
 
 <br/>
