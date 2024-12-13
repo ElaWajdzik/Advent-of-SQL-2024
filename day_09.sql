@@ -1,3 +1,7 @@
+----------------------------------------
+--day 9: Reindeer Training Records 🦌--
+----------------------------------------
+
 --Author: Ela Wajdzik
 --Date: 13.12.2024
 --Tool used: PostgreSQL 17.2

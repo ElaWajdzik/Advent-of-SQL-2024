@@ -1,3 +1,7 @@
+-------------------------------------
+--day 6: Making presents fairer 🎁--
+-------------------------------------
+
 --Author: Ela Wajdzik
 --Date: 8.12.2024
 --Tool used: PostgreSQL 17.2

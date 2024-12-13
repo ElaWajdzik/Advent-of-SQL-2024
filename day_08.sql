@@ -1,3 +1,7 @@
+--------------------------------------------------------
+--day 8: The Great North Pole Bureaucracy Bust of 2024--
+--------------------------------------------------------
+
 --Author: Ela Wajdzik
 --Date: 12.12.2024
 --Tool used: PostgreSQL 17.2

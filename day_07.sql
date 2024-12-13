@@ -1,3 +1,7 @@
+-------------------------------------------------------
+--day 7: Santa's Cartesian Elf Skill-Matching Program--
+-------------------------------------------------------
+
 --Author: Ela Wajdzik
 --Date: 12.12.2024
 --Tool used: PostgreSQL 17.2
