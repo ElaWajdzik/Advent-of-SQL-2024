@@ -47,3 +47,23 @@ SELECT
     hierarchy_path --full path from root to the current staff member
 FROM staff_hierarchy
 ORDER BY level DESC;
+
+
+/*
+Generating a sequence of numbers:
+
+WITH RECURSIVE numbers AS (
+    
+    --Start with the number 1
+    SELECT 1 AS n
+
+    UNION ALL
+
+    --recursive case: add 1 to the previous value
+    SELECT n + 1
+    FROM numbers
+    WHERE n < 10 -- termination condition
+)
+SELECT *
+FROM numbers;
+*/

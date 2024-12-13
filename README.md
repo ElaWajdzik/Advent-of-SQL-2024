@@ -21,6 +21,7 @@ day | summary | important function
 [day_6](day_06.sql) | practice working with simple aggregation functions | `AVG() OVER()`, `CTE`
 [day_7](day_07.sql) | practice working with window_function | `ROW_NUMBER()` - unique sequential number, `RANK()` 
 [day_8](day_08.sql) | used the RECURSIVE keyword in a CTE and applied it in practice for the first time | `CTE RECURSIVE`
+[day_9](day_09.sql) | practice working with simple aggregation functions | `AVG()`, `CTE`,  `ROW_NUMBER() OVER()`
 
 
 <br/>
