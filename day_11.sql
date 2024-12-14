@@ -42,3 +42,16 @@ SELECT
 	,2) AS three_season_moving_avg  --calculate the 3-season moving average and round to 2 decimal places
 FROM tree_harvests_with_order
 ORDER BY three_season_moving_avg DESC;
+
+
+/*
+{ROWS | RANGE} BETWEEN  <początek przedziału ramki> AND <koniec przedziału ramki>
+
+Określanie rozmiaru ramki:
+	* UNBOUNDED PRECEDING – wszystkie rekordy od początku ramki (poprzedzające wiersz, dla którego ramka jest wyznaczana)
+	* <unsigned integer> PRECEDING – konkretna liczba wierszy poprzedzających
+	* CURRENT ROW – reprezentuje konkretny, bieżący wiersz dla którego wyznaczana jest ramka
+	* <unsigned integer> FOLLOWING – konkretna liczba wierszy następujących po danym elemencie
+	* UNBOUNDED FOLLOWING – wszystkie wiersze do końca podzbioru okna
+
+*/
