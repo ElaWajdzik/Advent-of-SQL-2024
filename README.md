@@ -28,6 +28,7 @@ day | summary | important function
 [day_13](day_13.sql) | practice working with arrays | `UNNEST()`, `ARRAY_AGG()`, `SPLIT_PART()`
 [day_14](day_14.sql) | practice working with array functions and  json functions | `jsonb_array_elements()`, json `->>`
 [day_15](day_15.sql) | setting up PostGIS and working with geometry data | geometric types, `PostGIS`
+[day_16](day_16.sql) | working with geometry data as in day 15 | geometric types, `PostGIS`, `LEAD()`, `LAG()`, `NULLS LAST`
 
 
 <br/>
