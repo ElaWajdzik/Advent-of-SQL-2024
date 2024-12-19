@@ -27,6 +27,7 @@ day | summary | important function
 [day_12](day_12.sql) | practice using window functions and calculating percentiles | `PERCENT_RANK() OVER()`
 [day_13](day_13.sql) | practice working with arrays | `UNNEST()`, `ARRAY_AGG()`, `SPLIT_PART()`
 [day_14](day_14.sql) | practice working with array functions and  json functions | `jsonb_array_elements()`, json `->>`
+[day_15](day_15.sql) | setting up PostGIS and working with geometry data | geometric types, `PostGIS`
 
 
 <br/>
