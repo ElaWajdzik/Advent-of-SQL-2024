@@ -32,6 +32,7 @@ day | summary | important function
 [day_17](day_17.sql) | working with time zones  | `TIME ZONE`, `TO_CHAR()`
 [bonus_17](day_17_bonus.sql) | working with time zones and generating a series | `TIME ZONE`, `TO_CHAR()`, `generate_series()`
 [day_18](day_18.sql) | used the RECURSIVE keyword in a CTE and applied it similarly to the task from day 8 | `CTE RECURSIVE`, `COUNT() OVER()`
+[day_19](day_19.sql) | practice working with arrays | ARRAY, `ARRAY_LENGTH()`
 
 <br> 
 <br>
