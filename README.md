@@ -34,6 +34,8 @@ day | summary | important function
 [day_18](day_18.sql) | used the RECURSIVE keyword in a CTE and applied it similarly to the task from day 8 | `CTE RECURSIVE`, `COUNT() OVER()`
 [day_19](day_19.sql) | practice working with arrays | ARRAY, `ARRAY_LENGTH()`
 [day_20](day_20.sql) | working with JSON operations (extraction and transformation) | JSON, `JSON_OBJECT_AGG`
+[day_21](day_21.sql) | working with date part extraction and window functions | `DATE_PART()`, `EXTRACT()`, `LAG()`
+
 
 <br> 
 <br>
