@@ -35,7 +35,7 @@ day | summary | important function
 [day_19](day_19.sql) | practice working with arrays | ARRAY, `ARRAY_LENGTH()`
 [day_20](day_20.sql) | working with JSON operations (extraction and transformation) | JSON, `JSON_OBJECT_AGG`
 [day_21](day_21.sql) | working with date part extraction and window functions | `DATE_PART()`, `EXTRACT()`, `LAG()`
-
+[day_22](day_22.sql) | working with regular expressions (regex) | REGEX `~`
 
 <br> 
 <br>
