@@ -6,7 +6,7 @@
 --Date: 21.12.2024
 --Tool used: PostgreSQL 17.2
 
---https://adventofsql.com/challenges/21
+--https://adventofsql.com/challenges/20
 
 
 /*
