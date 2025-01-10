@@ -37,6 +37,7 @@ day | summary | important function
 [day_21](day_21.sql) | working with date part extraction and window functions | `DATE_PART()`, `EXTRACT()`, `LAG()`
 [day_22](day_22.sql) | working with regular expressions (regex) | REGEX `~`
 [day_23](day_23.sql) | understanding the Island Problem | `LEAD()`, `GENERATE_SERIES()`
+[day_24](day_24.sql) | practice working with CTE | `CTE`, `CASE`
 
 <br> 
 <br>
